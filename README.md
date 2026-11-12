@@ -1,6 +1,6 @@
 # Call Transcript Dashboard
 
-A production-minded React + TypeScript single-page dashboard built for the Adstia Agency frontend engineering task. It loads the supplied `calls.json` locally and provides composable URL-backed filtering, transcript search/highlighting, sorting, pagination, live summary metrics, and an accessible call detail panel.
+A production-minded React + TypeScript single-page dashboard built for the Adstia Agency. It loads the supplied `calls.json` locally and provides composable URL-backed filtering, transcript search/highlighting, sorting, pagination, live summary metrics, and an accessible call detail panel.
 
 ## Setup
 
